@@ -1,0 +1,18 @@
+.footer {
+  background: #007065;
+  color: white;
+  padding: 15px;
+}
+
+.footer p {
+  font-size: 10px;
+}
+
+.sm-logo {
+  font-size: 30px;
+  opacity: 0.8;
+}
+
+.sm-logo:hover {
+  opacity: 1;
+}

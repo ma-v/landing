@@ -1,0 +1,14 @@
+.hiw-card {
+  width: 200px;
+  box-shadow: 0 0 5px rgb(230,230,230);
+  border: 1px solid rgb(230,230,230);
+  padding: 20px;
+}
+
+.hiw-card > img {
+  height: 100px;
+}
+
+.hiw-card:hover {
+  box-shadow: 0 0 15px rgb(230,230,230);
+}
